@@ -73,7 +73,7 @@ function App() {
                     <tr>
                       <td className="py-1 pr-2 text-gray-700 align-top">Дата рождения</td>
                       <td className="py-1">
-                        <span className="text-blue-600 hover:underline cursor-pointer">2010</span>
+                        <span className="text-blue-600 hover:underline cursor-pointer">2011</span>
                         <br />
                         <span className="text-gray-600 text-xs">(15 лет)</span>
                       </td>
